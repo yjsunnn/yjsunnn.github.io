@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.co.in/citations?user=kj3VUSwAAAAJ&hl=en"
   email            : "yujingsun1999@gmail.com"
   researchgate     : 
-  uri              : # "https://www.zhihu.com/people/mi-si-te-sun-76"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "mi-si-te-sun-76"
 
 
 # Reading Files
