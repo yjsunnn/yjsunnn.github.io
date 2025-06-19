@@ -42,6 +42,19 @@ Pengxu Wei, **Yujing Sun**, Xingbei Guo, Chang Liu, Guanbin Li, Jie Chen, Xiangy
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/DLoRAL_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution](https://arxiv.org/abs/2506.15591)
+
+**Yujing Sun***, Lingchen Sun* , Shuaizheng Liu, Rongyuan Wu, Zhengqiang Zhang, Lei Zhang  
+\* Equal contribution
+
+[**Github**](https://github.com/yjsunnn/DLoRAL)
+- Propose a Dual LoRA Learning (DLoRAL) paradigm for Real-VSR.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - National scholarship at Harbin Institute of Technology. 
 
