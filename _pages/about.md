@@ -29,19 +29,6 @@ I am currently a Research Assistant in the Department of Computing at The Hong K
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/realbsr_eg.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards Real-World Burst Image Super-Resolution: Benchmark and Method](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Towards_Real-World_Burst_Image_Super-Resolution_Benchmark_and_Method_ICCV_2023_paper.pdf)
-
-Pengxu Wei, **Yujing Sun**, Xingbei Guo, Chang Liu, Guanbin Li, Jie Chen, Xiangyang Ji, Liang Lin
-
-[**Github**](https://github.com/yjsunnn/FBANet) [**Zhihu**](https://zhuanlan.zhihu.com/p/663561967)
-- Establish a Real-world Burst SuperResolution benchmark, *i.e*., RealBSR
-- Propose a Federated Burst Affinity network to address real-world burst image super-resolution.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/DLoRAL_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,6 +39,20 @@ Pengxu Wei, **Yujing Sun**, Xingbei Guo, Chang Liu, Guanbin Li, Jie Chen, Xiangy
 
 [**Github**](https://github.com/yjsunnn/DLoRAL)
 - Propose a Dual LoRA Learning (DLoRAL) paradigm for Real-VSR.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/realbsr_eg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Real-World Burst Image Super-Resolution: Benchmark and Method](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Towards_Real-World_Burst_Image_Super-Resolution_Benchmark_and_Method_ICCV_2023_paper.pdf)
+
+Pengxu Wei, **Yujing Sun**, Xingbei Guo, Chang Liu, Guanbin Li, Jie Chen, Xiangyang Ji, Liang Lin
+
+[**Github**](https://github.com/yjsunnn/FBANet) [**Zhihu**](https://zhuanlan.zhihu.com/p/663561967)
+- Establish a Real-world Burst SuperResolution benchmark, *i.e*., RealBSR
+- Propose a Federated Burst Affinity network to address real-world burst image super-resolution.
 </div>
 </div>
 
