@@ -50,4 +50,4 @@ Pengxu Wei, **Yujing Sun**, Xingbei Guo, Chang Liu, Guanbin Li, Jie Chen, Xiangy
 - *2017.09 - 2021.06*, Harbin Institute of Technology, School of Computer Science and Technology. 
 
 # 💻 Internships
-- *2025.01 - 2025.09*, OPPO(https://github.com/), China.
+- *2025.01 - 2025.09*, OPPO, China.
