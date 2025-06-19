@@ -34,8 +34,8 @@ I am currently a Research Assistant in the Department of Computing at The Hong K
 
 [One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution](https://arxiv.org/abs/2506.15591)
 
-**Yujing Sun***, Lingchen Sun* , Shuaizheng Liu, Rongyuan Wu, Zhengqiang Zhang, Lei Zhang  
-\* Equal contribution
+**Yujing Sun**<sup>*</sup>, Lingchen Sun<sup>*</sup>, Shuaizheng Liu, Rongyuan Wu, Zhengqiang Zhang, Lei Zhang  
+<sup>*</sup> Equal contribution
 
 [**Github**](https://github.com/yjsunnn/DLoRAL)
 - Propose a Dual LoRA Learning (DLoRAL) paradigm for Real-VSR.
