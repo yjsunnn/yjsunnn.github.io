@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "YujingSun"
-description              : "Seeing the world, pixel by pixel🔍."
+description              : "Seeing the world, pixel by pixel🧊."
 repository               : "yjsunnn/yjsunnn.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yujing Sun"
   avatar           : "images/photo_yujing.jpg"
-  bio              : "Yujing Sun"
+  bio              : 
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
