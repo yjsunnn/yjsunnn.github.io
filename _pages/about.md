@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Assistant in the Department of Computing at The Hong Kong Polytechnic University (PolyU). Starting September 2025, I will begin my PhD at PolyU, supervised by [Prof. Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/). Previously, I received my B.Eng. from Harbin Institute of Technology and my M.Sc. from Peking University.
+I am currently a PhD student in the Department of Computing at The Hong Kong Polytechnic University (PolyU), supervised by [Prof. Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/). Previously, I received my B.Eng. from Harbin Institute of Technology and my M.Sc. from Peking University.
 
 ### Research Interests
 - **Low-level computer vision**. A major challenge in super-resolution is the uncontrollable artifacts stemming from its intrinsically ill-posed nature. I am particularly interested in how to exploit ***multi-frame information*** to generate higher-quality and controllable outputs from degraded inputs.  
@@ -25,11 +25,12 @@ I am currently a Research Assistant in the Department of Computing at The Hong K
 
 
 # 🔥 News
+- *2025-10* — Our paper **DLoRAL** has been accepted by **NeurIPS 2025**! 🎉
 - *2025-09 | New Start* — I will join **VCLab** at PolyU and work alongside many outstanding PhD students 🎉.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/DLoRAL_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS2025</div><img src='images/DLoRAL_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution](https://arxiv.org/abs/2506.15591)
