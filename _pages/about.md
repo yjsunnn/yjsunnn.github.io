@@ -26,7 +26,7 @@ I am currently a PhD student in the Department of Computing at The Hong Kong Pol
 
 # 🔥 News
 - *2025-10* — Our paper **DLoRAL** has been accepted by **NeurIPS 2025**! 🎉
-- *2025-09 | New Start* — I will join **VCLab** at PolyU and work alongside many outstanding PhD students 🎉.
+- *2025-09* — I will join **VCLab** at PolyU and work alongside many outstanding PhD students 🎉.
 
 # 📝 Publications 
 
