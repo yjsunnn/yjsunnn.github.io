@@ -37,7 +37,7 @@ I am currently a PhD student in the Department of Computing at The Hong Kong Pol
 
 **Yujing Sun**
 
-[**Github**](https://github.com/yjsunnn/Awesome-video-super-resolution-diffusion)
+[🔗 **Github**](https://github.com/yjsunnn/Awesome-video-super-resolution-diffusion) [💡 **Zhihu**](https://zhuanlan.zhihu.com/p/1959430260706744130)
 
 - A curated list of resources for Video Super-Resolution (VSR) using Diffusion Models, including methods, and datasets.
 </div>
