@@ -52,7 +52,7 @@ I am currently a PhD student in the Department of Computing at The Hong Kong Pol
 **Yujing Sun**<sup>*</sup>, Lingchen Sun<sup>*</sup>, Shuaizheng Liu, Rongyuan Wu, Zhengqiang Zhang, Lei Zhang  
 <sup>*</sup> Equal contribution
 
-[**Github**](https://github.com/yjsunnn/DLoRAL)
+[🔗 **Github**](https://github.com/yjsunnn/DLoRAL) [💡 **Zhihu**](https://zhuanlan.zhihu.com/p/1959430260706744130)
 - Propose a Dual LoRA Learning (DLoRAL) paradigm for Real-VSR.
 </div>
 </div>
@@ -65,18 +65,18 @@ I am currently a PhD student in the Department of Computing at The Hong Kong Pol
 
 Pengxu Wei, **Yujing Sun**, Xingbei Guo, Chang Liu, Guanbin Li, Jie Chen, Xiangyang Ji, Liang Lin
 
-[**Github**](https://github.com/yjsunnn/FBANet) [**Zhihu**](https://zhuanlan.zhihu.com/p/663561967)
+[🔗 **Github**](https://github.com/yjsunnn/FBANet) [💡 **Zhihu**](https://zhuanlan.zhihu.com/p/663561967)
 - Establish a Real-world Burst SuperResolution benchmark, *i.e*., RealBSR
 - Propose a Federated Burst Affinity network to address real-world burst image super-resolution.
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - National scholarship at Harbin Institute of Technology. 
 
 # 📖 Educations
 - *2021.09 - 2024.06*, Peking University, School of Electronic and Computer Engineering 
 - *2017.09 - 2021.06*, Harbin Institute of Technology, School of Computer Science and Technology. 
 
-# 💻 Internships
+# 🏃‍♀️ Internships
 - *2025.01 - 2025.09*, OPPO, China.
